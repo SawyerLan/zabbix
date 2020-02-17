@@ -1,0 +1,4 @@
+zabbix  ALL=(ALL) NOPASSWD: /bin/readlink
+
+zabbix  ALL=(ALL) NOPASSWD: /usr/bin/netstat
+
